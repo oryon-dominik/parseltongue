@@ -1,0 +1,21 @@
+## GIT is ignoring... (# Created by oryon-dominik)
+
+
+# git itself
+/.git/*
+
+# all logs
+*.log
+
+# vscode/settings
+/.vscode/*
+parseltongue.code-workspace
+
+# local-config
+/.env
+
+
+### Python ###
+# precompiled
+__pycache__/
+*.py[cod]
