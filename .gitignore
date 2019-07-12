@@ -1,6 +1,7 @@
 ## GIT is ignoring...
 
 # git itself
+.gitignore
 /.git/*
 
 # all logs
