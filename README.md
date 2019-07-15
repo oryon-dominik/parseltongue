@@ -4,12 +4,12 @@
 
 *Parseltongue is the language of serpents in harry potter. I use "swotting parseltongue" as my expression to learn Python.* :snake:
 
-__author__ = 'oryon' :suspect:
+__author__ = 'oryon'
 
 &nbsp;&nbsp;&nbsp;&nbsp;#include<stdio.h>\
 &nbsp;&nbsp;&nbsp;&nbsp;int main()\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("HELLO WORLD\n");\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf("HELLO FOLKS\n");\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return 0;\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}
 
@@ -28,6 +28,7 @@ you can upgrade all packages inside your environment with this [little script](t
 
 ## Log
 
-&nbsp;&nbsp;&nbsp;&nbsp;2019-07-12 - added some search-algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;2019-07-12 - sorting-algorithms
+&nbsp;&nbsp;&nbsp;&nbsp;2019-07-12 - pip upgrade all
 
 you're welcome! :vulcan_salute:
