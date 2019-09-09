@@ -16,11 +16,16 @@ __author__ = 'oryon'
 ## Content
 
 1. [Search algorithms](#search-algorithms)
-2. [pip upgrade all](#pip-upgrade-all)
+2. [Luhn algorithm](#luhn-algorithm)
+3. [pip upgrade all](#pip-upgrade-all)
 
 ### Sort algorithms
 
 I did some experiments with the sort-algorithms bubble, heap, merge, quick, selection & LSD-radix sort in python. You can see a nice [video](https://www.youtube.com/watch?v=kPRA0W1kECg) on how they work on YT or have a look at my implementation in the algorithms folder.
+
+### Luhn algorithm
+
+The Luhn algorithm calculates checksums for ids. If appended to the id, you can validate the integer or hash-IDs, to avoid missspellings.
 
 ### pip upgrade all
 
