@@ -18,9 +18,9 @@ __author__ = 'oryon'
 1. [Search algorithms](#search-algorithms)
 2. [pip upgrade all](#pip-upgrade-all)
 
-### Search algorithms
+### Sort algorithms
 
-I did some experiments with the search-algorithms bubble, heap, merge, quick, selection & LSD-radix sort in python. You can see a nice [video](https://www.youtube.com/watch?v=kPRA0W1kECg) on how they work on YT or have a look at my implementation in the algorithms folder.
+I did some experiments with the sort-algorithms bubble, heap, merge, quick, selection & LSD-radix sort in python. You can see a nice [video](https://www.youtube.com/watch?v=kPRA0W1kECg) on how they work on YT or have a look at my implementation in the algorithms folder.
 
 ### pip upgrade all
 
