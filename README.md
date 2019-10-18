@@ -27,6 +27,10 @@ I did some experiments with the sort-algorithms bubble, heap, merge, quick, sele
 
 The Luhn algorithm calculates checksums for ids. If appended to the id, you can validate the integer or hash-IDs, to avoid missspellings.
 
+### Recursion: Towers of Hanoi algorithm
+
+The towers of hanoi move an ordered list with recursion over a helper to the target
+
 ### pip upgrade all
 
 you can upgrade all packages inside your environment with this [little script](tools/pip_upgrade_all.py)
